@@ -15,5 +15,3 @@ Exploratory Data Analysis refers to the critical process of performing initial i
 - Check for outliers, patterns, and trends in your raw data.
 
 - Find parameter estimates and their associated confidence intervals or margins of error.
-
-![This is an image](https://blog.camelot-group.com/wp-content/uploads/2019/03/Picture2.png)
